@@ -118,7 +118,7 @@ export default function Portfolio() {
       <section id="home" className="relative mx-auto max-w-6xl px-4 pt-20 pb-16">
         <div className="absolute inset-0 overflow-hidden opacity-40">
           <img
-            src="/images/harish-hero.jpg"
+            src="public/images/harish-hero.jpg"
             alt="Harish background blend"
             className="object-cover w-full h-full blur-xl scale-110"
             style={{ objectPosition: '50% 50%' }}
